@@ -26,5 +26,6 @@ print(response.status_code) # prints the HTTP response code; 200 being a healthy
 print(response.text) # prints the json file text/content of the request response
 
 ```
-
 - pip install package_name `pip install requests`
+=======
+>>>>>>> 9c98975eb96cfb1ee3c69aa72a98951ad4118c4c
